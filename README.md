@@ -6,7 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
 ![Groq](https://img.shields.io/badge/Groq-LLM-orange?style=for-the-badge)
 ![Agno](https://img.shields.io/badge/Agno-Agentic%20AI-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 ### 🎥 AI-Powered YouTube Video Analyzer using **Agno Agentic AI + Groq API**
 
